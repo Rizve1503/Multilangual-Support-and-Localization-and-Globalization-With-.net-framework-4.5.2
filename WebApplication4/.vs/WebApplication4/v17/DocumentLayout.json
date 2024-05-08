@@ -1,0 +1,163 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.NanoSoft\\WebApplication4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|d:\\.nanosoft\\webapplication4\\webapplication4\\resource.bn.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\resource.bn.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|D:\\.NanoSoft\\WebApplication4\\webapplication4\\resource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}",
+      "RelativeMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\resource.resx||{FF4D6ACA-9352-4A5F-821E-F4D6EBDCAB11}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|D:\\.NanoSoft\\WebApplication4\\webapplication4\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\models\\registration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|D:\\.NanoSoft\\WebApplication4\\webapplication4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|D:\\.NanoSoft\\WebApplication4\\webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|D:\\.NanoSoft\\WebApplication4\\webapplication4\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|D:\\.NanoSoft\\WebApplication4\\webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|D:\\.NanoSoft\\WebApplication4\\webapplication4\\mycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\mycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|D:\\.NanoSoft\\WebApplication4\\webapplication4\\languagemang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C783A08D-6259-4985-8B3D-1A6E2DA67E23}|WebApplication4\\WebApplication4.csproj|solutionrelative:webapplication4\\languagemang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T10:28:15.66Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T10:28:06.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication4\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication4\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-08T10:18:49.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication4\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:17:01.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MyController.cs",
+              "DocumentMoniker": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\MyController.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\MyController.cs",
+              "ToolTip": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\MyController.cs",
+              "RelativeToolTip": "WebApplication4\\MyController.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwCIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:15:44.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LanguageMang.cs",
+              "DocumentMoniker": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\LanguageMang.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\LanguageMang.cs",
+              "ToolTip": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\LanguageMang.cs",
+              "RelativeToolTip": "WebApplication4\\LanguageMang.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAABSAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:13:11.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registration.cs",
+              "DocumentMoniker": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\Models\\Registration.cs",
+              "RelativeDocumentMoniker": "WebApplication4\\Models\\Registration.cs",
+              "ToolTip": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\Models\\Registration.cs",
+              "RelativeToolTip": "WebApplication4\\Models\\Registration.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAcwBYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-08T10:11:54.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Resource.bn.resx",
+              "DocumentMoniker": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\Resource.bn.resx",
+              "RelativeDocumentMoniker": "WebApplication4\\Resource.bn.resx",
+              "ToolTip": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\Resource.bn.resx",
+              "RelativeToolTip": "WebApplication4\\Resource.bn.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-08T10:09:23.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Resource.resx",
+              "DocumentMoniker": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\Resource.resx",
+              "RelativeDocumentMoniker": "WebApplication4\\Resource.resx",
+              "ToolTip": "D:\\.NanoSoft\\WebApplication4\\WebApplication4\\Resource.resx",
+              "RelativeToolTip": "WebApplication4\\Resource.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2024-05-08T10:03:46.83Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
